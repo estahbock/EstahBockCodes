@@ -1,0 +1,5 @@
+AXL	0.816
+BAMBI	1.07
+a NA
+k -1
+t 4
